@@ -1,0 +1,9 @@
+@import './reset.css';
+@import './base.css';
+
+/* import fonts */
+@import './fonts.css';
+
+/* components stylesheets */
+@import './components/header.css';
+@import './components/footer.css';

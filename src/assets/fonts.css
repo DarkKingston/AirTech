@@ -1,0 +1,105 @@
+/* Cygre */
+@font-face {
+    font-family: 'Cygre';
+    src: url('./fonts/Cygre-Black.ttf') format('truetype');
+    font-weight: 900; /* Black */
+}
+
+@font-face {
+    font-family: 'Cygre';
+    src: url('./fonts/Cygre-BoldIt.ttf') format('truetype');
+    font-style: italic;
+    font-weight: 700; /* Bold */
+}
+
+@font-face {
+    font-family: 'Cygre';
+    src: url('./fonts/Cygre-Regular.ttf') format('truetype');
+    font-weight: 400; /* Regular */
+}
+
+/* SF Pro Display */
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('./fonts/SF-Pro-Display-Black.otf') format('opentype');
+    font-weight: 900; /* Black */
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('./fonts/SF-Pro-Display-Bold.otf') format('opentype');
+    font-weight: 700; /* Bold */
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('./fonts/SF-Pro-Display-Heavy.otf') format('opentype');
+    font-weight: 800; /* Heavy */
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('./fonts/SF-Pro-Display-Light.otf') format('opentype');
+    font-weight: 300; /* Light */
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('./fonts/SF-Pro-Display-Medium.otf') format('opentype');
+    font-weight: 500; /* Medium */
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('./fonts/SF-Pro-Display-Regular.otf') format('opentype');
+    font-weight: 400; /* Regular */
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('./fonts/SF-Pro-Display-Semibold.otf') format('opentype');
+    font-weight: 600; /* SemiBold */
+}
+
+/* TT Fors Trial */
+@font-face {
+    font-family: 'TT Fors';
+    src: url('./fonts/TT_Fors_Trial_Black.ttf') format('truetype');
+    font-weight: 900; /* Black */
+}
+
+@font-face {
+    font-family: 'TT Fors';
+    src: url('./fonts/TT_Fors_Trial_Bold.ttf') format('truetype');
+    font-weight: 700; /* Bold */
+}
+
+@font-face {
+    font-family: 'TT Fors';
+    src: url('./fonts/TT_Fors_Trial_DemiBold.ttf') format('truetype');
+    font-weight: 600; /* DemiBold */
+}
+
+@font-face {
+    font-family: 'TT Fors';
+    src: url('./fonts/TT_Fors_Trial_ExtraBold.ttf') format('truetype');
+    font-weight: 800; /* ExtraBold */
+}
+
+@font-face {
+    font-family: 'TT Fors';
+    src: url('./fonts/TT_Fors_Trial_Light.ttf') format('truetype');
+    font-weight: 300; /* Light */
+}
+
+@font-face {
+    font-family: 'TT Fors';
+    src: url('./fonts/TT_Fors_Trial_Medium.ttf') format('truetype');
+    font-weight: 500; /* Medium */
+}
+
+@font-face {
+    font-family: 'TT Fors';
+    src: url('./fonts/TT_Fors_Trial_Regular.ttf') format('truetype');
+    font-weight: 400; /* Regular */
+}
